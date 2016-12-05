@@ -1,0 +1,11 @@
+C:\xna\Lib\SparrowXNA\SparrowXNA\bin\x86\Debug\SparrowXNA.dll
+C:\xna\Lib\SparrowXNA\SparrowXNA\bin\x86\Debug\SparrowXNA.pdb
+C:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\SparrowXNA.dll
+C:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\SparrowXNA.pdb
+E:\xna\Lib\SparrowXNA\SparrowXNA\bin\x86\Debug\SparrowXNA.dll
+E:\xna\Lib\SparrowXNA\SparrowXNA\bin\x86\Debug\SparrowXNA.pdb
+E:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\SparrowXNA.csprojResolveAssemblyReference.cache
+E:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\SparrowXNA.dll
+E:\xna\Lib\SparrowXNA\SparrowXNA\obj\x86\Debug\SparrowXNA.pdb
