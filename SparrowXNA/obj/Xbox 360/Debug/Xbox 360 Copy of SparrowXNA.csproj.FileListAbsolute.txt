@@ -1,2 +1,0 @@
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

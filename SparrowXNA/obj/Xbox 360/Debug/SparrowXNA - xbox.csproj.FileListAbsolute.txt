@@ -1,5 +1,0 @@
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\xna\Lib\SparrowXNA\SparrowXNA\bin\Xbox 360\Debug\SparrowXNA.dll
-C:\xna\Lib\SparrowXNA\SparrowXNA\bin\Xbox 360\Debug\SparrowXNA.pdb
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Debug\SparrowXNA.dll
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Debug\SparrowXNA.pdb

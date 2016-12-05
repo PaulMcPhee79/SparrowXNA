@@ -1,6 +1,0 @@
-C:\xna\Lib\SparrowXNA\SparrowXNA\bin\Xbox 360\Release\SparrowXNA.dll
-C:\xna\Lib\SparrowXNA\SparrowXNA\bin\Xbox 360\Release\SparrowXNA.pdb
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Release\ResolveAssemblyReference.cache
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Release\SparrowXNA.dll
-C:\xna\Lib\SparrowXNA\SparrowXNA\obj\Xbox 360\Release\SparrowXNA.pdb
